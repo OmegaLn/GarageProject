@@ -1,0 +1,60 @@
+Bonjour,
+
+
+
+Suite à l'entretien que vous avez effectué vous êtes présélectionné pour me remplacer, afin de vous départager je vous envoie une application à développer permettant de connaître vos compétences à répondre à un sujet pendant une courte période.
+
+
+
+Sujet du test :
+
+Vous devez réaliser une application contenant un back office sous forme d'api en nestJs,  d'un front en vuejs qui me permettra de voir votre niveau sur les technologies utilisées au sein de l'entreprise.
+
+
+
+Contexte :
+
+Une personne possède un nom et prénom. Il voudrait avoir un garage virtuel où il peut enregistrer ces voitures, les supprimer et les modifier, une voiture possède un nom de marque et un numéro de modèle.
+
+
+
+Back Office:
+
+Pour ce faire le back-office devra être une api avec différentes routes afin de répondre au mieux au contexte. Pour développer cette api vous utiliserez le Framework Nestjs avec une base de données en Mysql
+
+Exemples de routes
+
+-          Post Utilisateur (nom/prénom)
+
+-          Get Utilisateur
+
+-          Put Utilisateur
+
+-          Post véhicule (marque / numéro de modèle)
+
+-          Delete véhicule
+
+-          Put véhicule
+
+Front:
+
+Vous réaliserez un front permettant d’ajouter cet utilisateur, il pourra ensuite modifier son nom et prénom, par la suite il pourra ajouter ces voitures, les modifier et les supprimer de son garage virtuel.
+
+Toutes documentations sur les Framework sont présentes sur le site :
+
+-           https://nestjs.com/
+
+-          https://vuejs.org/ 
+
+
+
+Afin que je consulte votre travail je vous demanderais de versionner votre code sur un dépôt Github accessible.
+
+
+
+Je regarderais et j’installerai vos projets lundi matin lorsque j'aurais reçu votre dépôt, 10 heures dernier délais. 
+
+
+
+Toute solution développée est bonne à prendre, il n'y a pas de mauvaise solution.
+

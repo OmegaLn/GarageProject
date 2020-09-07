@@ -1,0 +1,3 @@
+customer.service.ts: c'est le fichier de service principal avec @Injectable()décorateur
+
+Le customer.service.tsfichier contient toute la logique en matière d'interaction avec la base de données pour créer et mettre à jour tous les détails d'un nouveau client. En un mot, le service recevra une demande du contrôleur, la communiquera à la base de données et retournera une réponse appropriée par la suite.
